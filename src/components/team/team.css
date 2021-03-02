@@ -1,0 +1,10 @@
+.player-selector
+{
+    display:flex;
+}
+.my-player
+{
+    width: 60%;
+    margin-left:20px;
+    border-right: 4px solid gray;
+}

@@ -1,0 +1,15 @@
+.player
+{
+    height:400px;
+    width: 400px;
+    border:2px solid green;
+    margin-left: 30px;
+    margin-right: 4px;
+    padding:3px;
+}
+.player img
+{
+    height: 200px;
+    width: 200px;
+    text-align:center;
+}

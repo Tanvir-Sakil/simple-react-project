@@ -1,0 +1,62 @@
+[
+	{
+		"Name": "Sakib Al Hasan",
+        "salary": "$43054.47",
+        "image" : "https://i.postimg.cc/SKCd4WT6/201.png"
+	},
+	{
+		"Name": "Tamim Iqbal",
+        "salary": "$11583.35",
+        "image" : "https://i.postimg.cc/4NMp3BSD/download-1.jpg"
+	},
+	{
+		"Name": "Chris Gayle",
+        "salary": "$4525.60",
+        "image" : "https://i.postimg.cc/MKfjgzrR/gayle261101-min.jpg"
+	},
+	{
+		"Name": "Somaya Sarkar",
+        "salary": "$79076.98",
+        "image" : "https://i.postimg.cc/kG6ygzqp/soumya-sarkar.png"
+	},
+	{
+		"Name": "Masrafee Mortaza",
+        "salary": "$97184.07",
+        "image" : "https://i.postimg.cc/rmpk3FgL/391.png"
+	},
+	{
+		"Name": "Mahmudulla Riyad",
+        "salary": "$11922.84",
+        "image" : "https://i.postimg.cc/hjHKmRbW/76356800.png"
+	},
+	{
+		"Name": "AB de Villiers",
+        "salary": "$79257.12",
+        "image" : "https://i.postimg.cc/J7GxxDZ5/ab-de-villiers.png"
+	},
+	{
+		"Name": "David Warner",
+        "salary": "$79544.05",
+        "image" : "https://i.postimg.cc/1X5L790N/fe9672cd574ecb05ab4993875a39e00f.png"
+	},
+	{
+		"Name": "Imrul Kayes",
+        "salary": "$1344.88",
+        "image" : "https://i.postimg.cc/R0hdYN2m/imrul-kayes.png"
+	},
+	{
+		"Name": "Liton Das",
+        "salary": "$46560.41",
+        "image" : "https://i.postimg.cc/jqH1PJb3/liton-das.png"
+	},
+	{
+		"Name": "Martin Guptill",
+        "salary": "$25026.52",
+        "image" : "https://i.postimg.cc/VL7bVDwS/431.png"
+	},
+	{
+		"Name": "Mohammed Amir",
+        "salary": "$66809.05",
+        "image" : "https://i.postimg.cc/1tZH3Jfm/4294.jpg"
+    }
+]
